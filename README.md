@@ -1,5 +1,5 @@
-﻿Proyecto Fuentux
-
+﻿<h3>Proyecto Fuentux</h3>
+=============
 El proyecto Fuentux es una distro basada en Debian 7.1 hecha especialmente para desarrolladores y estudiantes de ciencias informáticas. Posee herramientas y aplicaciones propias para dichos usuarios.
 
 Esta distro es desarrollada por el Centro de Estudiantes La Fuente de la Facultad de Informática de la UNLP.
